@@ -7,7 +7,7 @@ Creativiteit & common sense ondersteund met data & research. Op het scherpst van
 ### Latest visualizations
 
 <a href='https://github.com/Willem-Jelle/Visualizations'>
-  <img src='Visualizations/2024-04_broedvogels/2024-04_broedvogels_viz_01.png' height = 175 width = 175/></a>
+  <img src='https://github.com/Willem-Jelle/Visualizations/blob/main/2024-04_broedvogels/2024-04_broedvogels_viz_01.png' height = 175 width = 175/></a>
 
 <!--
 **Willem-Jelle/Willem-Jelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
