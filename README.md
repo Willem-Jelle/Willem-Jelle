@@ -1,6 +1,6 @@
-### Hi there 👋
+Datanerd in hart en nieren, nullen en enen. <i>‘Data is als een stapel stenen maar het is aan de expert om er een huis van te bouwen.’</i> Van begin tot eind, van vraagteken naar uitroepteken: ik werk als freelancer met data op het gebied van concept, technische tools en visualisaties. Lekker anti-bullshit en geen moeilijkdoenerij. Niet wat hoort, maar wat werkt. Gebruikte tools: o.a. Microsoft Excel & PowerBI, R & RStudio, SQL en Tableau.
 
-Test!
+Creativiteit & common sense ondersteund met data & research. Op het scherpst van de snede. Altijd concreet, zonder poespas of dure woorden. Met plezier, passie en precisie! 
 
 <!--
 **Willem-Jelle/Willem-Jelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
