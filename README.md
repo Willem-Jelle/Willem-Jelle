@@ -1,6 +1,13 @@
+### About me (in Dutch)
+
 Datanerd in hart en nieren, nullen en enen. <i>‘Data is als een stapel stenen maar het is aan de expert om er een huis van te bouwen.’</i> Van begin tot eind, van vraagteken naar uitroepteken: ik werk als freelancer met data op het gebied van concept, technische tools en visualisaties. Lekker anti-bullshit en geen moeilijkdoenerij. Niet wat hoort, maar wat werkt. Gebruikte tools: o.a. Microsoft Excel & PowerBI, R & RStudio, SQL en Tableau.
 
 Creativiteit & common sense ondersteund met data & research. Op het scherpst van de snede. Altijd concreet, zonder poespas of dure woorden. Met plezier, passie en precisie! 
+
+### Latest visualizations
+
+<a href='https://github.com/Willem-Jelle/Visualizations/blob/main/2024-04_broedvogels'>
+  <img src='2024-04_broedvogels/2024-04_broedvogels_viz_01.png' height = 175 width = 175/></a>
 
 <!--
 **Willem-Jelle/Willem-Jelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
