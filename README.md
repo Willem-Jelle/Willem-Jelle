@@ -6,7 +6,7 @@ Creativiteit & common sense ondersteund met data & research. Op het scherpst van
 
 ### Latest visualizations
 
-<a href='https://github.com/Willem-Jelle/Visualizations'><img src='https://github.com/Willem-Jelle/Visualizations/blob/main/2024-06_orders_zonnepanelen/2024-06_orders_zonnepanelen_viz.png' height = 200 width = 200/></a>
+<a href='https://github.com/Willem-Jelle/Visualizations'><img src='https://github.com/Willem-Jelle/Visualizations/blob/main/2024-07_remaking_warming_stripes/2024-07_remaking_warming_stripes_viz.png' height = 200 width = 440/></a>
 <a href='https://github.com/Willem-Jelle/Visualizations'><img src='https://github.com/Willem-Jelle/Visualizations/blob/main/2024-05_sentiment_hoofdlijnenakkoord/2024-05_sentiment_hoofdlijnenakkoord_viz.png' height = 200 width = 140/></a>
 <a href='https://github.com/Willem-Jelle/Visualizations'><img src='https://github.com/Willem-Jelle/Visualizations/blob/main/2024-05_hoofdlijnenakkoord/2024-05_hoofdlijnenakkoord_viz.png' height = 200 width = 200/></a>
 <a href='https://github.com/Willem-Jelle/Visualizations'>
