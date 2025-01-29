@@ -13,3 +13,4 @@ Gebruikte tools: o.a. Affinity Designer, Figma, Microsoft Excel & Power BI, R & 
 <a href='https://github.com/Willem-Jelle/Visualizations'><img src='https://github.com/Willem-Jelle/Visualizations/blob/main/2024-11_warmest_year/2024-11_warmest_year_viz_png_export.png' height = 200 width = 300/></a>
 <a href='https://github.com/Willem-Jelle/Visualizations'><img src='https://github.com/Willem-Jelle/Visualizations/blob/main/2024-10_netflix/2024-10_netflix_infographic_png_export.png' height = 200 width = 200/></a>
 <a href='https://github.com/Willem-Jelle/Visualizations'><img src='https://github.com/Willem-Jelle/Visualizations/blob/main/2024-05_sentiment_hoofdlijnenakkoord/2024-05_sentiment_hoofdlijnenakkoord_viz.png' height = 200 width = 140/></a>
+<a href='https://github.com/Willem-Jelle/Visualizations'><img src='https://github.com/Willem-Jelle/Visualizations/blob/main/2024-03_cherry_tree_blossom/2024-03_cherry_tree_blossom_viz.png' height = 200 width = 200/></a>
